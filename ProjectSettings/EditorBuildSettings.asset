@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2d2c6dcb959b661438e68798f9d69fe7
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 14067fe2f87e9cb4e9142fc442141f8e, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 0aaa921277874604a8ed14000a8b9faa, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 44e5703a0e9160844be62d3719870ded, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7e66dcb60e16f4346951f8cdf6ee3869, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 830a1ddde6512c44ea41c914a6b711d9, type: 2}
